@@ -1,1 +1,1 @@
-https://zendhiyb.github.io/Web-Aslabinf-Frontend/
+https://zendhiyb.github.io/web-aslabinf-frontend/

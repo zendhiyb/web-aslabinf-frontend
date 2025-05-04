@@ -8,8 +8,6 @@ Proyek ini dibangun dengan pendekatan fullstack, menggunakan teknologi modern un
 
 > 🔗 Demo Live: [https://zendhiy.github.io/aslab-informatika](https://zendhiy.github.io/aslab-informatika)
 
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 ### Frontend:
@@ -22,5 +20,3 @@ Proyek ini dibangun dengan pendekatan fullstack, menggunakan teknologi modern un
 - **PHP** – Bahasa pemrograman server-side
 - **CodeIgniter 4** – Framework PHP untuk pengembangan backend
 - **MySQL** – Sistem manajemen basis data relasional
-
----

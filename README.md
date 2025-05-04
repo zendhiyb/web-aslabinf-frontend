@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/zendhiyb/web-aslabinf-frontend/blob/ab819f0218b9dc1403f59cee87bda8b9a3bb1ae6/img/img%20(2).png)
+![App Screenshot](https://github.com/zendhiyb/web-aslabinf-frontend/blob/18be67e323b8916efa6141f7b99097ad31c5b42f/img/img%20(3).png)
 
 ## Website Asisten Laboratorium Informatika UMSIDA
 

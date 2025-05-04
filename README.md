@@ -4,8 +4,6 @@ https://zendhiyb.github.io/web-aslabinf-frontend/
 
 Website Asisten Laboratorium Informatika UMSIDA merupakan platform web yang dikembangkan untuk mendukung pengelolaan kegiatan dan administrasi laboratorium jurusan Informatika di Universitas Muhammadiyah Sidoarjo. Website ini menyediakan berbagai fitur seperti pendaftaran asisten, publikasi dokumentasi, dan manajemen data pendaftar secara sistematis dan efisien.
 
-Proyek ini dibangun dengan pendekatan fullstack, menggunakan teknologi modern untuk memastikan performa yang optimal dan tampilan yang responsif.
-
 > 🔗 Demo Live: [https://zendhiy.github.io/aslab-informatika](https://zendhiy.github.io/aslab-informatika)
 
 ## 🛠️ Teknologi yang Digunakan

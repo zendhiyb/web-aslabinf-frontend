@@ -1,4 +1,4 @@
-https://zendhiyb.github.io/web-aslabinf-frontend/
+![App Screenshot](https://github.com/zendhiyb/remake-lms-umsida/blob/cbf626670c29830337f2fdcb7402608d30a55f29/image/image.png)
 
 ## Website Asisten Laboratorium Informatika UMSIDA
 
